@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Assig2", "Assig2\Assig2.csproj", "{3629666A-FEB7-4DAD-A4E7-50BD6AB3693E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assig_8040", "Assig_8040\Assig_8040.csproj", "{51ABDF2C-DD53-443B-A095-7EDA59AE832F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3629666A-FEB7-4DAD-A4E7-50BD6AB3693E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3629666A-FEB7-4DAD-A4E7-50BD6AB3693E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3629666A-FEB7-4DAD-A4E7-50BD6AB3693E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3629666A-FEB7-4DAD-A4E7-50BD6AB3693E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51ABDF2C-DD53-443B-A095-7EDA59AE832F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51ABDF2C-DD53-443B-A095-7EDA59AE832F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51ABDF2C-DD53-443B-A095-7EDA59AE832F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51ABDF2C-DD53-443B-A095-7EDA59AE832F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C15E4AAC-A93B-40FC-BD67-5962A2FBB677}
+	EndGlobalSection
+EndGlobal
